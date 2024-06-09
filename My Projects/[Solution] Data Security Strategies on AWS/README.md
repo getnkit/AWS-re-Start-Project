@@ -5,4 +5,4 @@
 ## Solution (Only part of data security)
 ![image](https://github.com/getnkit/All-AWS-re-Start-Project/blob/1c9332279c89fdc48a4da816e2aabdd6d745c864/My%20Projects/%5BSolution%5D%20Data%20Security%20Strategies%20on%20AWS/images/Slide%20P.1.png)
 
-![image](https://github.com/getnkit/AWS-re-Start-Project/blob/a80fa7ad90648b97bc7692b5a39f1fdb5e00428a/My%20Projects/%5BSolution%5D%20Data%20Security%20Strategy%20in%20AWS/images/Slide%20P.2.png)
+![image](https://github.com/getnkit/All-AWS-re-Start-Project/blob/f8d50d4ffa094f97857bff629ade14e3db2eadb2/My%20Projects/%5BSolution%5D%20Data%20Security%20Strategies%20on%20AWS/images/Slide%20P.2.png)
